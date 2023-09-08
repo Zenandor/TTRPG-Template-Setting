@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "36ba1270baaabdee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9218097dd3c85bbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b434fa45c08906ec",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "0.DM Screen/Untitled Kanban.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ccb93e501e621b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fca3e481c5a86c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42c22185a4d13f90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96b87fa987992c85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dba5885149973f42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9667d3ddb8ab1485",
+    "type": "split",
+    "children": [
+      {
+        "id": "4af12b6516f88c37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa6220cdcb202a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0.DM Screen/Untitled Kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23c571e3f7453442",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0.DM Screen/Untitled Kanban.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da168e4d12e63485",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ff43efd6ac89f12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.DM Screen/Untitled Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "4c629f050b2d14d7",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "42c22185a4d13f90",
+  "lastOpenFiles": [
+    "5.Scenario Notes/5.Scenario Notes.md",
+    "4.Mechanics/4.Mechanics.md",
+    "2.The Party/2.The Party.md",
+    "3.World Almanac/3.World Almanac.md",
+    "0.DM Screen/Untitled Kanban.md",
+    "3.World Almanac/Modules",
+    "3.World Almanac/World",
+    "z_Templates",
+    "z_Assets",
+    "5.Scenario Notes",
+    "4.Mechanics",
+    "2.The Party",
+    "3.World Almanac",
+    "1.Scratch Notes",
+    "0.DM Screen"
+  ]
+}
